@@ -1,0 +1,17 @@
+{
+    "posts": [
+      { "id": 1, "title": "Chunky ", "price": 230 , "decscription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu suscipit metus. Aliquam quis turpis dolor. Maecenas velit ipsum, sagittis at nunc in, malesuada ultricies lectus." },
+      { "id": 2, "title": "Crusty’s", "price": 222 , "decscription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu suscipit metus. Aliquam quis turpis dolor. Maecenas velit ipsum, sagittis at nunc in, malesuada ultricies lectus." },
+      { "id": 3, "title": "Italian Pizza", "price": 124 , "decscription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu suscipit metus. Aliquam quis turpis dolor. Maecenas velit ipsum, sagittis at nunc in, malesuada ultricies lectus." },
+      { "id": 4, "title": " Impizzable", "price": 255 , "decscription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu suscipit metus. Aliquam quis turpis dolor. Maecenas velit ipsum, sagittis at nunc in, malesuada ultricies lectus." },
+      { "id": 5, "title": "Mozzarella ", "price": 654 , "decscription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu suscipit metus. Aliquam quis turpis dolor. Maecenas velit ipsum, sagittis at nunc in, malesuada ultricies lectus." },
+      { "id": 6, "title": "Pizzageddon", "price": 244 , "decscription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu suscipit metus. Aliquam quis turpis dolor. Maecenas velit ipsum, sagittis at nunc in, malesuada ultricies lectus." },
+      { "id": 7, "title": " Pizza Room", "price": 543 , "decscription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu suscipit metus. Aliquam quis turpis dolor. Maecenas velit ipsum, sagittis at nunc in, malesuada ultricies lectus." },
+      { "id": 8, "title": "Great Pizza", "price": 765 , "decscription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu suscipit metus. Aliquam quis turpis dolor. Maecenas velit ipsum, sagittis at nunc in, malesuada ultricies lectus." },
+      { "id": 9, "title": "Pizza’hoy", "price": 112 , "decscription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu suscipit metus. Aliquam quis turpis dolor. Maecenas velit ipsum, sagittis at nunc in, malesuada ultricies lectus." }
+    ],
+    "comments": [
+      { "id": 1, "body": "some comment", "postId": 1 }
+    ],
+    "profile": { "name": "typicode" }
+  }
